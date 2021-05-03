@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vulputate dignissim suspendisse in est ante in nibh. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Placerat vestibulum lectus mauris ultrices. Semper feugiat nibh sed pulvinar. Mattis molestie a iaculis at erat. Lacus suspendisse faucibus interdum posuere lorem ipsum. Sit amet nisl purus in mollis nunc sed. Ullamcorper malesuada proin libero nunc consequat interdum varius. Nec ullamcorper sit amet risus nullam eget felis eget nunc. Egestas congue quisque egestas diam. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Eu lobortis elementum nibh tellus molestie nunc.",
+      "author": "nikita",
+      "id": 1
+    },
+    {
+      "title": "This is my first blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vulputate dignissim suspendisse in est ante in nibh. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Placerat vestibulum lectus mauris ultrices. Semper feugiat nibh sed pulvinar. Mattis molestie a iaculis at erat. Lacus suspendisse faucibus interdum posuere lorem ipsum. Sit amet nisl purus in mollis nunc sed. Ullamcorper malesuada proin libero nunc consequat interdum varius. Nec ullamcorper sit amet risus nullam eget felis eget nunc. Egestas congue quisque egestas diam. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Eu lobortis elementum nibh tellus molestie nunc.",
+      "author": "nikita",
+      "id": 2
+    },
+    {
+      "title": "hello my new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit amet. Morbi tincidunt augue interdum velit euismod in pellentesque. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Velit laoreet id donec ultrices tincidunt arcu non sodales. Amet justo donec enim diam. Dolor sed viverra ipsum nunc. Viverra vitae congue eu consequat ac. Blandit cursus risus at ultrices mi tempus. Lectus proin nibh nisl condimentum. Rhoncus dolor purus non enim praesent elementum facilisis. Felis donec et odio pellentesque diam volutpat commodo sed. Mi sit amet mauris commodo quis.",
+      "author": "nikita",
+      "id": 4
+    }
+  ]
+}
